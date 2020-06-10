@@ -10,7 +10,7 @@ Checkout the code on local machine
 ```
 git clone https://github.com/T2DREAM/t2dream-portal.git
 ```
-Install dependencies, python and run buildout script (steps 1-4 https://github.com/T2DREAM/t2dream-portal/blob/master/README.md)
+Install dependencies, python and run buildout script locally (steps 1-4 https://github.com/T2DREAM/t2dream-portal/blob/master/README.md)
 
 For production:
 
